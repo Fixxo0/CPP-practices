@@ -1,0 +1,46 @@
+FOR LOOP 
+--------------------------------------------------------------------------------------------
+#include<iostream>
+#include<conio.h>
+using namespace std;
+
+int main(){
+    int sum= 0;
+    int n;
+    int i;
+    cin>>i;
+
+   for( n=1;n<=i; n++){
+   cout<<n<<"";
+   
+   sum=sum+n;
+    }
+    cout<<"\n sum"<<sum<<endl;
+    getch();
+    return 0;
+}
+
+print any string 5 times
+---------------------------
+#include<iostream>
+#include<conio.h>
+using namespace std;
+
+int main(){
+    int sum= 0;
+    int n;
+    int i;
+    cin>>i;
+
+   for( n=1;n<=i; n++){
+   cout<<n<<"";
+   
+   sum=sum+n;
+    }
+    cout<<"\n sum"<<sum<<endl;
+    getch();
+    return 0;
+}
+---------------------------------
+https://www.codesdope.com/practice/cpp-decide-ifelse/
+
